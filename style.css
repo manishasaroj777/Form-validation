@@ -1,0 +1,43 @@
+
+
+
+form
+{
+    background-color:darkgrey;
+    width:40%;
+    height:450px;
+    margin:5% auto;
+    padding:10px;
+    border-radius:10px ;
+    box-shadow:rosybrown bisque;
+    opacity: 0.9;
+}
+
+
+form p
+{
+    font-size:25PX;
+    text-align: CENTER;
+    font-weight: bold;
+    
+}
+form label
+{
+    font-size:15PX; 
+    margin:5px 5px;
+    font-weight: bold;
+}
+
+form .form-group
+{
+    width:100%;
+}
+
+
+form #submitbtn
+{
+ margin-top:15px;
+ background-color: black;
+ padding:10px;
+ text-transform: uppercase;
+}
